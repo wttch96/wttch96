@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wttch96">
-    <img src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=ff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
   </a>
 </p>
 
