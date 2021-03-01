@@ -9,3 +9,9 @@
     <img src="https://img.shields.io/badge/🌱%20-我的博客-brightness.svg" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96" />
+  </a>
+</p>
