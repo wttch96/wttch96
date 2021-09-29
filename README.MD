@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  [![类库 wttch-library 快照](https://github.com/wttch-repo/wttch-library/actions/workflows/publishSnapshotCore.yml/badge.svg?branch=develop)](https://github.com/wttch-repo/wttch-library/actions/workflows/publishSnapshotCore.yml)
+  [![类库 wttch-library 快照]](https://github.com/wttch-repo/wttch-library/actions/workflows/publishSnapshotCore.yml/badge.svg?branch=develop)](https://github.com/wttch-repo/wttch-library/actions/workflows/publishSnapshotCore.yml)
 </p>
 
 
