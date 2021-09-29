@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  [![发布快照[plugin:libs]](https://github.com/wttch-plugin/libs/actions/workflows/publishSnapshot.yml/badge.svg)](https://github.com/wttch-plugin/libs/actions/workflows/publishSnapshot.yml)
+  [![发布快照(plugin:libs)](https://github.com/wttch-plugin/libs/actions/workflows/publishSnapshot.yml/badge.svg)](https://github.com/wttch-plugin/libs/actions/workflows/publishSnapshot.yml)
 </p>
 
 
