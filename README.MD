@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-  [![发布快照(plugin:libs)](https://github.com/wttch-plugin/libs/actions/workflows/publishSnapshot.yml/badge.svg)](https://github.com/wttch-plugin/libs/actions/workflows/publishSnapshot.yml)
-</p>
-
-
-<p align="center">
   <a href="http://blog.wttch.com">
     <img src="https://img.shields.io/badge/🌱%20-我的博客-brightness.svg" />
   </a>
