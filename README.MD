@@ -1,3 +1,5 @@
+> Always trust your spirit.
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
 
 ### 搬砖人🧱🧱🧱
