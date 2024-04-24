@@ -1,8 +1,10 @@
-<p align="center">
-  <a href="https://github.com/wttch96">
-    <img src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
-  </a>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+
+# 搬砖人🧱🧱🧱
+
+- 📙: 没什么营养的博客 https://blog.wttch.com
+- 💻: 四年 JavaCoder
+- 🏫: 研一在读...实在是搬砖搬不动了, 回炉重造ing...
 
 <p align="center">
   <a href="https://github.com">
