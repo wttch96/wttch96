@@ -10,9 +10,9 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" width="150" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut" width="100"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact"/>
 
