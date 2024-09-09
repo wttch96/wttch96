@@ -1,6 +1,5 @@
 > Always trust your spirit.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
 
 ### 搬砖人🧱🧱🧱[![wakatime](https://wakatime.com/badge/user/a9afa94f-c553-4629-b4b7-88cbcd06c9f1.svg)](https://wakatime.com/@a9afa94f-c553-4629-b4b7-88cbcd06c9f1)
 
@@ -11,7 +10,9 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut" style="width: 48%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact" style="width: 48%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact"/>
 
