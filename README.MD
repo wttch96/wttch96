@@ -13,5 +13,5 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut" width="300"/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact" width="300"/>
 
