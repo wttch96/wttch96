@@ -11,7 +11,7 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut" style="width: 48%"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact" style="width: 48%"/>
 
