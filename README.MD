@@ -3,6 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
 
 ### 搬砖人🧱🧱🧱
+[![wakatime](https://wakatime.com/badge/user/a9afa94f-c553-4629-b4b7-88cbcd06c9f1.svg)](https://wakatime.com/@a9afa94f-c553-4629-b4b7-88cbcd06c9f1)
 
 - 📙: 没什么营养的博客 <a href="http://blog.wttch.com"><img src="https://img.shields.io/badge/🌱%20-我的博客-brightness.svg" /></a>
 - 💻: 四年 JavaCoder
