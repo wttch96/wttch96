@@ -19,16 +19,12 @@
     <!-- 左侧 GitHub 统计图 -->
     <td style="border:none; width:50%;" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" style="width:90%;"/>
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue&layout=compact" style="width:90%;"/>
     </td>
     <!-- 右侧 Wakatime 统计图 -->
-    <td style="border:none; width:50%;" align="center" rowspan="2">
+    <td style="border:none; width:50%;" align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact" style="width:90%;"/>
-    </td>
-  </tr>
-  <tr>
-    <!-- 左侧语言统计图 -->
-    <td style="border:none; width:50%;" align="center"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue&layout=compact" style="width:90%;"/>
     </td>
   </tr>
 </table>
