@@ -26,7 +26,7 @@
   </td>
   </tr>
   <tr>
-  <td style="border:none;" align="center" colspan="2"> 
+  <td style="border:none;" align="left" colspan="2"> 
      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact"/>
   </td>
   </tr>
