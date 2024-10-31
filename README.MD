@@ -20,10 +20,14 @@
   <tr>
   <td style="border:none;" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wttch96&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" width="380"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut" width="380"/>
   </td>
-  <td style="border:none;" align="center">
+  <td style="border:none;" align="center" rowspan=2>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wttch96&layout=compact"/>
+  </td>
+  </tr>
+  <tr>
+  <td style="border:none;" align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wttch96&layout=donut" width="380"/>
   </td>
   </tr>
 </table>
